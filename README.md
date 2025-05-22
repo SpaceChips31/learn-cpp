@@ -10,7 +10,7 @@ The goal is to cover fundamental programming concepts through 100 progressively 
 
 ## 📁 Structure
 
-[Projects](./Projects) are organized in folders, each named after its corresponding project number and title.  
+[Projects](./Projects.md) are organized in folders, each named after its corresponding project number and title.  
 Example:
 
 > 01 - HelloWorld/\
