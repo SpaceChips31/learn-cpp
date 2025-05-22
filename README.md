@@ -29,5 +29,5 @@ Example:
 - Object-oriented programming (later stages)
 ---
 
-📌 Notes
+📌 Notes:
 This is a personal learning project, not intended as production-quality code.
