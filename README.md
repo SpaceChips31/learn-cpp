@@ -13,9 +13,9 @@ The goal is to cover fundamental programming concepts through 100 progressively 
 [Projects](./Projects.md) are organized in folders, each named after its corresponding project number and title.  
 Example:
 
-> 01 - HelloWorld/\
-> 02 - BasicCalculator/\
-> 03 - CelsiusToFahrenheit/\
+> 01 - Hello World/\
+> 02 - Basic Calculator/\
+> 03 - Celsius-Fahrenheit Converter/\
 ...
 ---
 
