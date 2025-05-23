@@ -2,11 +2,7 @@
 
 This page contains the full list of 100 C++ practice projects, organized by topic and increasing difficulty.
 
-<<<<<<< HEAD
 > ✅ Completed: 5 / 100
-=======
-> ✅ Completed: 4 / 100
->>>>>>> 84ebb6b8995d285eb188f04d69c2d500721869a3
 
 # Fundamentals & I/O (01–10)
 
@@ -16,13 +12,8 @@ This page contains the full list of 100 C++ practice projects, organized by topi
 | 02 | Basic Calculator | - [x] done |
 | 03 | Celsius to Fahrenheit | - [x] done |
 | 04 | Even or Odd | - [x] done |
-<<<<<<< HEAD
 | 05 | Multiplication Table | - [x] done |
 | 06 | Average of Numbers | - [ ] WIP |
-=======
-| 05 | Multiplication Table | - [ ] {WIP} |
-| 06 | Average of Numbers | - [ ] not started |
->>>>>>> 84ebb6b8995d285eb188f04d69c2d500721869a3
 | 07 | Factorial | - [ ] not started |
 | 08 | Sum of Positive Numbers | - [ ] not started |
 | 09 | Vowel Counter | - [ ] not started |
